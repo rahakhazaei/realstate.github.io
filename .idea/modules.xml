@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../laragon/www/devexpress/.idea/devexpress.iml" filepath="$PROJECT_DIR$/../../../../../../laragon/www/devexpress/.idea/devexpress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../laragon/www/lasima-controlPanel/.idea/lasima-controlPanel.iml" filepath="$PROJECT_DIR$/../../../../../../laragon/www/lasima-controlPanel/.idea/lasima-controlPanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../laragon/www/lasima-official/.idea/lasima-official.iml" filepath="$PROJECT_DIR$/../../../../../../laragon/www/lasima-official/.idea/lasima-official.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../laragon/www/login-codeigniter/.idea/login-codeigniter.iml" filepath="$PROJECT_DIR$/../../../../../../laragon/www/login-codeigniter/.idea/login-codeigniter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/realstate.iml" filepath="$PROJECT_DIR$/.idea/realstate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../laragon/www/restaurant-project/.idea/restaurant-project.iml" filepath="$PROJECT_DIR$/../../../../../../laragon/www/restaurant-project/.idea/restaurant-project.iml" />
+    </modules>
+  </component>
+</project>
